@@ -1,0 +1,33 @@
+body{
+  background-color:grey;
+}
+h1,p{
+  text-align:center;
+  color:white;
+}
+
+.container{
+  display:flex;
+  background-color:white;
+  width:1100px;
+  margin:20px auto;
+  content:center; 
+}
+.container div{
+  background-color:black;
+  margin: 23px;
+  padding: 20px;
+  font-size: 24px;
+  content:center;
+}
+  
+  
+.footer {
+  background-color:green;  
+}  
+
+.social a{
+  color:white;
+  margin:0 1rem;
+  font-size:1.2rem;
+}
